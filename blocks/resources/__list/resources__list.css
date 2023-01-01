@@ -1,0 +1,6 @@
+.resources__list {
+  display: flex;
+  gap: 80px;
+  list-style: none;
+  margin-top: 71px;
+}

@@ -1,0 +1,11 @@
+.intro__card-copy-first {
+  width: 473px;
+  height: 519px;
+  position: absolute;
+  left: 811px;
+  top: 275px;
+  opacity: 0.6;
+  border-radius: 38px;
+  transform: rotate(-25deg);
+  z-index: -1;
+}

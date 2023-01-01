@@ -1,0 +1,11 @@
+.intro__card-copy-second {
+  width: 336px;
+  height: 467px;
+  position: absolute;
+  left: 830px;
+  top: 338px;
+  opacity: 0.6;
+  border-radius: 34px;
+  transform: rotate(-40deg);
+  z-index: -1;
+}

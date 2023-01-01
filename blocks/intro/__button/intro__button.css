@@ -1,0 +1,20 @@
+.intro__button {
+  width: 198px;
+  height: 64px;
+  background: linear-gradient(100deg, #84eef5, #c584f5);
+  color: #fff;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 42px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  margin-bottom: 184px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.intro__button:hover {
+  opacity: 0.6;
+}

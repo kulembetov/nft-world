@@ -1,0 +1,14 @@
+.intro__card {
+  width: 489px;
+  height: 574px;
+  position: absolute;
+  left: 884px;
+  top: 224px;
+  transition: .3s ease-in-out;
+  border-radius: 42px;
+  filter: blur(5px);
+}
+
+.intro__card:hover {
+  filter: blur(0);
+}

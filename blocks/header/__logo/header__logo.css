@@ -1,0 +1,13 @@
+.header__logo {
+  display: block;
+  width: 116px;
+  height: 75px;
+  background-image: url('../../images/NFT World.png');
+  background-repeat: no-repeat;
+  transition: .3s ease-in-out;
+}
+
+.header__logo:hover {
+  opacity: .6;
+}
+
