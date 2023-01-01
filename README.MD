@@ -1,7 +1,7 @@
 ## Name of project
 [NFT World](https://kulembetov.github.io/nft-world)
 
-## Описание
+## Description
 The one-page website was made according to the layout from Figma. Made as part of free activity.
 
 ## Layouts
